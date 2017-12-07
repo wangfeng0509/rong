@@ -1,0 +1,31 @@
+*{margin:0px;padding:0px;border:0px;}
+body{font-size:12px}
+#demo{
+	overflow:hidden;
+	height:200px;
+	width:280px;
+	border:1px red solid;
+	margin:0px auto;
+}
+#demo1{
+height:auto;
+text-align:left;
+}
+#demo2{
+height:auto;
+text-align:left;
+}
+#demo1  li{
+list-style-type:none;
+height:22px;
+background:url() no-repeat left center;
+text-align:left;
+text-indent:15px;
+}
+#demo2  li{
+list-style-type:none;
+height:22px;
+background:url() no-repeat left center;
+text-align:left;
+text-indent:15px;
+}
